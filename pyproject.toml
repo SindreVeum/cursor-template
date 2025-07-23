@@ -1,7 +1,0 @@
-[project]
-name = "cursor-template"
-version = "0.1.0"
-description = "Cursor templates to set up project specs"
-readme = "README.md"
-requires-python = ">=3.13"
-dependencies = []
